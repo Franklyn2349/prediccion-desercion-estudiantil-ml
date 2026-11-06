@@ -1,0 +1,4 @@
+Modelo,Pseudo_R2_E1,Pseudo_R2_E2
+Decision Tree,-15.2524,-12.0578
+Random Forest,0.1496,0.3591
+XGBoost,0.115,0.2917

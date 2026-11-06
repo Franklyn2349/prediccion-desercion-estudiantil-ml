@@ -1,0 +1,4 @@
+Escenario,Modelo,Accuracy,F1_macro,F1_macro_CV,Desv_CV
+E2,Decision Tree,0.6305,0.5718,0.585,0.0036
+E2,Random Forest,0.7322,0.6587,0.6725,0.012
+E2,XGBoost,0.722,0.6364,0.6685,0.0112

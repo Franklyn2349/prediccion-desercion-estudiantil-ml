@@ -1,0 +1,10 @@
+Escenario,Modelo,Clase,Precision,Recall,F1
+E2,Decision Tree,Abandono,0.635,0.6127,0.6237
+E2,Decision Tree,Graduado,0.7647,0.7353,0.7497
+E2,Decision Tree,Matriculado,0.3172,0.3711,0.342
+E2,Random Forest,Abandono,0.8109,0.6796,0.7395
+E2,Random Forest,Graduado,0.7833,0.8914,0.8339
+E2,Random Forest,Matriculado,0.4236,0.3836,0.4026
+E2,XGBoost,Abandono,0.7649,0.6761,0.7178
+E2,XGBoost,Graduado,0.7795,0.8959,0.8337
+E2,XGBoost,Matriculado,0.4048,0.3208,0.3579
