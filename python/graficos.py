@@ -423,7 +423,7 @@ def grafico_roc(datos, escenario, modelo_objetivo="Random Forest"):
 # FIGURA 6 — Pseudo-R² de McFadden
 # ===============================================================
 def calcular_pseudo_r2(datos):
-    """Pseudo-R² de McFadden de cada modelo sobre el conjunto de prueba.
+    """Pseudo-R² de McFadden de cada modelo sobre el conjunto de prueba
 
     pseudo-R² = 1 - (log-loss del modelo / log-loss del modelo nulo)
 
