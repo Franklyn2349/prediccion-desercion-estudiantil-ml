@@ -106,6 +106,10 @@ Métricas sobre el conjunto de prueba (885 estudiantes):
 
 **Pseudo-R² de McFadden** (`results/pseudo_r2.csv`): Random Forest pasa de 0.150 (E1) a 0.359 (E2) y XGBoost de 0.115 a 0.292. El Decision Tree da valores negativos porque, con hiperparámetros por defecto, asigna probabilidades de 0 o 1 y cada error se penaliza mucho.
 
+## Uso de inteligencia artificial
+
+Durante el desarrollo se utilizaron herramientas de IA generativa (Claude, de Anthropic) como apoyo para revisar el código, corregir comentarios, generar la figura del pseudo-R² y redactar este README. El diseño metodológico, el análisis y la interpretación de los resultados son responsabilidad de los autores.
+
 ## Licencia
 
 El dataset original pertenece a sus autores y se distribuye bajo CC BY 4.0. Este repositorio incluye una versión traducida al español con la atribución indicada arriba.
